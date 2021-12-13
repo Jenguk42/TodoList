@@ -1,6 +1,6 @@
 # TodoList Project
 
-A to-do list Web page created with (a) vanila JavaScript and (b) React.js! The cat at the bottom cheers you up. 😺
+A to-do list Web page created with **(a) vanila JavaScript** and **(b) React.js**! <br> The cat at the bottom cheers you up. 😺
 
 ## Vanila JavaScript project
 
